@@ -1,0 +1,7 @@
+{
+  "name": "SAFEHAVEN AI",
+  "description": "A trauma-informed digital support navigator for people affected by non-consensual intimate-image sharing. Your privacy. Your choices. Your next safe step.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
